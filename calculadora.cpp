@@ -1,4 +1,4 @@
-//inplementando as bibliotecas
+//implementando as bibliotecas
 #include<stdio.h>
 #include<stdlib.h>
 
