@@ -1,7 +1,9 @@
+//inplementando as bibliotecas
 #include<stdio.h>
 #include<stdlib.h>
 
 int main(){
+	//escolhendo as variáveis
 	float n1,n2,conta;
 	char calculador;
 	printf("digite o primeiro numero: \n");
