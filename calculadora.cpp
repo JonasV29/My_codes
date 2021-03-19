@@ -10,7 +10,7 @@ int main(){
 	scanf("%f",&n2);
 	printf("\n calculador desejado: \n");
 	scanf("%s",&calculador);
-	
+	//colocando as operações
 	if(calculador== '+') {
 	conta=n1+n2; 
 	printf("\n a conta deu:%.2f",conta);
